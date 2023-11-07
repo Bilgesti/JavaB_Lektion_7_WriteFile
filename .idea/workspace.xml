@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335efbc1-2108-4ce6-bf20-c744941ac548" name="Changes" comment="" />
+    <list default="true" id="335efbc1-2108-4ce6-bf20-c744941ac548" name="Changes" comment="Revert &quot;First&quot;&#10;&#10;This reverts commit d7e0dd33" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699348542038</updated>
-      <workItem from="1699348543079" duration="5283000" />
+      <workItem from="1699348543079" duration="5686000" />
     </task>
     <servers />
   </component>
@@ -69,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;First&quot;&#10;&#10;This reverts commit d7e0dd33" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;First&quot;&#10;&#10;This reverts commit d7e0dd33" />
   </component>
 </project>
